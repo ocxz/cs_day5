@@ -7,10 +7,12 @@ namespace _12_方法练习
         static void Main(string[] args)
         {
 
-            // 调用方法 求两个整数最大值
-            int max = Program.GetMaxValue(5, 20);
-            Console.WriteLine(max);
-            Console.ReadKey();
+            #region 调用方法，求两个整数最大值
+            //// 调用方法 求两个整数最大值
+            //int max = Program.GetMaxValue(5, 20);
+            //Console.WriteLine(max);
+            //Console.ReadKey(); 
+            #endregion
         }
 
         #region 写一个方法，求两个整数之间的最大值
