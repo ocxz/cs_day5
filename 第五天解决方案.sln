@@ -5,25 +5,27 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_01_复习", "_01_复习\_01_复习.csproj", "{914B5807-8163-4391-9847-74849FB75D2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_常量", "_02_常量\_02_常量.csproj", "{8B7A95BD-53D7-4F0F-B045-0FD16E8EC27B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_02_常量", "_02_常量\_02_常量.csproj", "{8B7A95BD-53D7-4F0F-B045-0FD16E8EC27B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_枚举", "_03_枚举\_03_枚举.csproj", "{350855E9-6D8F-4265-8973-79D97E29447E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_03_枚举", "_03_枚举\_03_枚举.csproj", "{350855E9-6D8F-4265-8973-79D97E29447E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_枚举小练习", "_04_枚举小练习\_04_枚举小练习.csproj", "{474B05E8-E850-47D4-91EB-4D14CB177232}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_04_枚举小练习", "_04_枚举小练习\_04_枚举小练习.csproj", "{474B05E8-E850-47D4-91EB-4D14CB177232}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_枚举和int以及string之间的转换", "_05_枚举和int以及string之间的转换\_05_枚举和int以及string之间的转换.csproj", "{9234B92E-F331-451B-85EB-A88E480457E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_05_枚举和int以及string之间的转换", "_05_枚举和int以及string之间的转换\_05_枚举和int以及string之间的转换.csproj", "{9234B92E-F331-451B-85EB-A88E480457E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06_结构", "_06_结构\_06_结构.csproj", "{DDE02357-29E2-439F-B432-41409D2B233B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_06_结构", "_06_结构\_06_结构.csproj", "{DDE02357-29E2-439F-B432-41409D2B233B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07_结构小练习", "_07_结构小练习\_07_结构小练习.csproj", "{B72E73CA-A8FE-422C-9DC8-8CD70FA26AB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_07_结构小练习", "_07_结构小练习\_07_结构小练习.csproj", "{B72E73CA-A8FE-422C-9DC8-8CD70FA26AB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08_数组", "_08_数组\_08_数组.csproj", "{912EA3FB-5C57-46BC-8106-28B454B9909A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_08_数组", "_08_数组\_08_数组.csproj", "{912EA3FB-5C57-46BC-8106-28B454B9909A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09_数组的五个练习", "_09_数组的五个练习\_09_数组的五个练习.csproj", "{F7778D5C-53B0-4624-8A69-C07AED5B3BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_09_数组的五个练习", "_09_数组的五个练习\_09_数组的五个练习.csproj", "{F7778D5C-53B0-4624-8A69-C07AED5B3BB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_冒泡排序", "_10_冒泡排序\_10_冒泡排序.csproj", "{34622154-0B64-4147-AEF1-9CF959583395}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_10_冒泡排序", "_10_冒泡排序\_10_冒泡排序.csproj", "{34622154-0B64-4147-AEF1-9CF959583395}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_方法", "_11_方法\_11_方法.csproj", "{195F15EB-C2B0-40DD-A52B-A686471166FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_11_方法", "_11_方法\_11_方法.csproj", "{195F15EB-C2B0-40DD-A52B-A686471166FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_12_方法练习", "_12_方法练习\_12_方法练习.csproj", "{64912607-A0A1-4FFC-86BC-4D9768038016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{195F15EB-C2B0-40DD-A52B-A686471166FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{195F15EB-C2B0-40DD-A52B-A686471166FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{195F15EB-C2B0-40DD-A52B-A686471166FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64912607-A0A1-4FFC-86BC-4D9768038016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64912607-A0A1-4FFC-86BC-4D9768038016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64912607-A0A1-4FFC-86BC-4D9768038016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64912607-A0A1-4FFC-86BC-4D9768038016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
